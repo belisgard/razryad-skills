@@ -70,7 +70,7 @@ Claude Code и Codex: `CLAUDE.md` содержит одну строку, кот
 ### Claude Code, как плагин
 
 ```
-claude plugin marketplace add <github-user>/razryad-skills
+claude plugin marketplace add belisgard/razryad-skills
 claude plugin install razryad-skills@razryad-skills --scope user
 ```
 
@@ -89,7 +89,7 @@ claude plugin install razryad-skills@razryad-skills --scope user
 
 Вставь в чат Claude Code или Codex:
 
-> Установи набор скиллов из репозитория github.com/<github-user>/razryad-skills: склонируй его во временную папку,
+> Установи набор скиллов из репозитория github.com/belisgard/razryad-skills: склонируй его во временную папку,
 > скопируй все папки из `skills/` в мой каталог скиллов (`~/.claude/skills/` для Claude Code, `~/.codex/skills/` для Codex),
 > сохрани адрес репозитория как источник обновлений и проверь, что скилл `razryad` виден. Потом удали временную папку.
 
