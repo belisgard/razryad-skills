@@ -1,0 +1,8 @@
+{
+  "name": "razryad-skills",
+  "version": "0.1.0",
+  "description": "Путь первого продукта с ИИ-агентом: 12 скиллов от выбора задачи до измеренного эффекта, с воротами на каждом шаге",
+  "author": { "name": "Игорь Кузнецов" },
+  "license": "CC-BY-4.0",
+  "keywords": ["skills", "claude-code", "codex", "product", "russian", "first-product", "beginners"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "razryad-skills",
+  "owner": { "name": "Игорь Кузнецов" },
+  "plugins": [
+    {
+      "name": "razryad-skills",
+      "source": "./",
+      "description": "Путь первого продукта с ИИ-агентом: 12 скиллов от выбора задачи до измеренного эффекта",
+      "version": "0.1.0"
+    }
+  ]
+}
