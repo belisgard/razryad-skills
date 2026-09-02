@@ -1,6 +1,6 @@
 ---
 name: razryad
-description: "Use when someone starts a new project with an AI agent, returns to an existing one and asks what to do next, or wants to build a first tool or product without knowing where to begin. Отвечает на вопрос «где я и что дальше», заводит папку проекта и правила работы. Триггеры: «хочу собрать инструмент», «с чего начать», «что дальше», «где я застрял», «продолжаем проект», «заведи проект», «как работать с тобой правильно». Не используй для выбора самой задачи и замера времени (это razryad-task) и для описания требований (razryad-prd)."
+description: "Use when someone starts a new project with an AI agent, returns to an existing one and asks what to do next, or wants to build a first tool or product without knowing where to begin. Отвечает на вопрос «где я и что дальше», заводит папку проекта и правила работы. Триггеры: «хочу собрать инструмент», «с чего начать», «что дальше», «где я застрял», «продолжаем проект», «заведи проект», «как работать с тобой правильно», «просто собери мне», «сделай без вопросов», «не надо интервью». Не используй для выбора самой задачи и замера времени (это razryad-task) и для описания требований (razryad-prd)."
 metadata:
   version: 0.1.0
   authors: Игорь Кузнецов
